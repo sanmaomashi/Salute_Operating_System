@@ -14,6 +14,6 @@
 * Mac
   * 开发配置
   * 软件安装
-  * 常见问题
+    * [homebrew安装](sections/Mac/软件安装/homebrew安装.md)
+  * [常见问题](sections/Mac/常见问题.md)
 * Win
-  * 软件安装
